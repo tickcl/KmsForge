@@ -5,6 +5,8 @@ KmsForge is a Python script for activating Windows operating systems using KMS k
 > [!Warning]
 > Activating Windows using unauthorized methods may violate Microsoft's terms of service and could result in legal consequences. Use KmsForge at your own risk.
 
+> KmsForge Open-Source Code located in `src` Folder.
+
 ## Usage
 
 To use KmsForge, follow these steps:
