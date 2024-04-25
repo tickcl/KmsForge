@@ -76,9 +76,9 @@ def main():
 
 Welcome to KmsForge - Your Windows Activator!
 
-Visit our repository: https://github.com/KmsForge
+Visit our repository: https://github.com/somebodyscript/KmsForge/
 
-Available Windows versions and their KMS keys (Not aviable for standart activating system):
+Available Windows versions and their KMS keys (Not aviable for standart activating system). Type only Windows Version, what you want activate:
 
 """)
 
