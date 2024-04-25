@@ -1,5 +1,7 @@
 # KmsForge
 
+![logo](https://i.ibb.co/Y0nMyKj/2024-04-25-155729.png)
+
 KmsForge is a Python script for activating Windows operating systems using KMS keys. This script simplifies the process of activating various versions of Windows by automating the activation steps.
 
 > [!Warning]
