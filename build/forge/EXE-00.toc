@@ -100,7 +100,7 @@
  [],
  False,
  False,
- 1715000467,
+ 1715002214,
  [('run.exe',
    'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
