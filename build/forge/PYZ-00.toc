@@ -1,4 +1,4 @@
-('C:\\Users\\asus\\Desktop\\Files\\Python\\KmsForge\\build\\forge\\PYZ-00.pyz',
+('C:\\Users\\asus\\Desktop\\Files\\Python\\KmsForge-main\\KmsForge\\build\\forge\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
    'PYMODULE'),
