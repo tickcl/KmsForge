@@ -10,10 +10,15 @@ def is_admin():
 
 def activate_windows(key, kms_server):
     subprocess.run(["slmgr.vbs", "/upk"], shell=True, check=True)
+    time.sleep(5)
     subprocess.run(["slmgr.vbs", "/cpky"], shell=True, check=True)
+    time.sleep(5)
     subprocess.run(["slmgr.vbs", "/ckms"], shell=True, check=True)
+    time.sleep(5)
     subprocess.run(["slmgr", "/ipk", key], shell=True, check=True)
+    time.sleep(5)
     subprocess.run(["slmgr", "/skms", kms_server], shell=True, check=True)
+    time.sleep(5)
     subprocess.run(["slmgr", "/ato"], shell=True, check=True)
 
 def main():
